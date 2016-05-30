@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b086cdeff9ad5466ea2bbaf3aab66458
+timeCreated: 1463032835
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {fileID: 11405792, guid: bbc1167acf669f14d9b857f153028895, type: 2}
+  - gameOverText: {fileID: 11485366, guid: b474bd049260ae84dbd15a813c49cd45, type: 2}
+  - restartButton: {fileID: 110608, guid: 7df1772e24ec9d8488ccb830cb183390, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
